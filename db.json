@@ -173,35 +173,35 @@
     "carouselImgItems": [
         {
             "id": 0,
-            "image": "CAROUSEL_CENTER.jpg"
+            "image": "CAROUSEL_CENTER.webp"
         },
         {
             "id": 1,
-            "image": "CAROUSEL_RIGHT.jpg"
+            "image": "CAROUSEL_RIGHT.webp"
         },
         {
             "id": 2,
-            "image": "CAROUSEL_LEFT.jpg"
+            "image": "CAROUSEL_LEFT.webp"
         },
         {
             "id": 3,
-            "image": "CAROUSEL_CENTER.jpg"
+            "image": "CAROUSEL_CENTER.webp"
         },
         {
             "id": 4,
-            "image": "CAROUSEL_RIGHT.jpg"
+            "image": "CAROUSEL_RIGHT.webp"
         },
         {
             "id": 5,
-            "image": "CAROUSEL_LEFT.jpg"
+            "image": "CAROUSEL_LEFT.webp"
         },
         {
             "id": 6,
-            "image": "CAROUSEL_CENTER.jpg"
+            "image": "CAROUSEL_CENTER.webp"
         },
         {
             "id": 7,
-            "image": "CAROUSEL_LEFT.jpg"
+            "image": "CAROUSEL_LEFT.webp"
         }
     ]
 }
