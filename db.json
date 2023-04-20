@@ -506,17 +506,25 @@
                 {
                     "date": "01.03.2023",
                     "productId": 7,
+                    "image": "bag_leather_gray_1",
+                    "name": "Сумка банан Leather Gray",
                     "count": 2,
-                    "sum": "",
+                    "price": "360.00",
+                    "sum": "720.00",
                     "status": "Проведён",
                     "adress": "Украина, Одесса",
-                    "delivery": "Новая почта"
+                    "delivery": "Новая почта",
+                    "isOnSale": true,
+                    "newPrice": "360.00"
                 },
                 {
                     "date": "13.06.2022",
                     "productId": 0,
+                    "name": "Футболка Love is",
+                    "price": "320.00",
+                    "image": "t-shirt_life_is",
                     "count": 1,
-                    "sum": "",
+                    "sum": "320.00",
                     "status": "Проведён",
                     "adress": "Украина, Одесса",
                     "delivery": "Новая почта(курьер)"
@@ -524,8 +532,11 @@
                 {
                     "date": "25.02.2022",
                     "productId": 8,
+                    "name": "Бейсболка Simple",
+                    "price": "380.00",
+                    "image": "cap_black_1",
                     "count": 1,
-                    "sum": "",
+                    "sum": "380.00",
                     "status": "Проведён",
                     "adress": "Украина, Одесса",
                     "delivery": "Новая почта"
