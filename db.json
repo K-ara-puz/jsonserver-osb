@@ -507,39 +507,106 @@
                     "date": "01.03.2023",
                     "productId": 7,
                     "image": "bag_leather_gray_1",
-                    "name": "Сумка банан Leather Gray",
-                    "count": 2,
-                    "price": "360.00",
-                    "sum": "720.00",
-                    "status": "Проведён",
-                    "adress": "Украина, Одесса",
-                    "delivery": "Новая почта",
-                    "isOnSale": true,
-                    "newPrice": "360.00"
+                    "textInfo": {
+                        "name": {
+                            "title": "Наименование товара",
+                            "value": "Сумка банан Leather Gray"
+                        },
+                        "price": {
+                            "title": "Стоимость",
+                            "value": "360.00"
+                        },
+                        "count": {
+                            "title": "Количество",
+                            "value": 2
+                        },
+                        "sum": {
+                            "title": "Общая стоимость",
+                            "value": "720.00"
+                        },
+                        "status": {
+                            "title": "Статус заказа",
+                            "value": "Проведён"
+                        },
+                        "address": {
+                            "title": "Адрес доставки",
+                            "value": "Украина, Одесса"
+                        },
+                        "delivery": {
+                            "title": "Способ доставки",
+                            "value": "Новая почта"
+                        }
+                    }
                 },
                 {
                     "date": "13.06.2022",
                     "productId": 0,
-                    "name": "Футболка Love is",
-                    "price": "320.00",
                     "image": "t-shirt_life_is",
-                    "count": 1,
-                    "sum": "320.00",
-                    "status": "Проведён",
-                    "adress": "Украина, Одесса",
-                    "delivery": "Новая почта(курьер)"
+                    "textInfo": {
+                        "name": {
+                            "title": "Наименование товара",
+                            "value": "Футболка Love is"
+                        },
+                        "price": {
+                            "title": "Стоимость",
+                            "value": "320.00"
+                        },
+                        "count": {
+                            "title": "Количество",
+                            "value": 1
+                        },
+                        "sum": {
+                            "title": "Общая стоимость",
+                            "value": "320.00"
+                        },
+                        "status": {
+                            "title": "Статус заказа",
+                            "value": "Проведён"
+                        },
+                        "address": {
+                            "title": "Адрес доставки",
+                            "value": "Украина, Одесса"
+                        },
+                        "delivery": {
+                            "title": "Способ доставки",
+                            "value": "Новая почта(курьер)"
+                        }
+                    }
                 },
                 {
                     "date": "25.02.2022",
                     "productId": 8,
-                    "name": "Бейсболка Simple",
-                    "price": "380.00",
                     "image": "cap_black_1",
-                    "count": 1,
-                    "sum": "380.00",
-                    "status": "Проведён",
-                    "adress": "Украина, Одесса",
-                    "delivery": "Новая почта"
+                    "textInfo": {
+                        "name": {
+                            "title": "Наименование товара",
+                            "value": "Бейсболка Simple"
+                        },
+                        "price": {
+                            "title": "Стоимость",
+                            "value": "380.00"
+                        },
+                        "count": {
+                            "title": "Количество",
+                            "value": 1
+                        },
+                        "sum": {
+                            "title": "Общая стоимость",
+                            "value": "380.00"
+                        },
+                        "status": {
+                            "title": "Статус заказа",
+                            "value": "Проведён"
+                        },
+                        "address": {
+                            "title": "Адрес доставки",
+                            "value": "Украина, Одесса"
+                        },
+                        "delivery": {
+                            "title": "Способ доставки",
+                            "value": "Новая почта"
+                        }
+                    }
                 }
             ],
             "likesList": [
@@ -601,17 +668,8 @@
                     "delivery": "Новая почта"
                 },
                 {
-                    "date": "12.08.2022",
-                    "productId": 6,
-                    "count": 1,
-                    "sum": "",
-                    "status": "Проведён",
-                    "adress": "Украина, Киев",
-                    "delivery": "Новая почта"
-                },
-                {
                     "date": "25.02.2022",
-                    "productId": 4,
+                    "productId": 5,
                     "count": 1,
                     "sum": "",
                     "status": "Проведён",
