@@ -505,18 +505,23 @@
             "orders": [
                 {
                     "date": "01.03.2023",
-                    "status": {
-                        "title": "Статус заказа",
-                        "value": "Проведён"
-                    },
-                    "address": {
-                        "title": "Адрес доставки",
-                        "value": "Украина, Одесса"
-                    },
-                    "delivery": {
-                        "title": "Способ доставки",
-                        "value": "Новая почта"
-                    },
+                    "dopInfo": [
+                        {
+                            "name": "status",
+                            "title": "Статус заказа",
+                            "value": "Проведён"
+                        },
+                        {
+                            "name": "address",
+                            "title": "Адрес доставки",
+                            "value": "Украина, Одесса"
+                        },
+                        {
+                            "name": "delivery",
+                            "title": "Способ доставки",
+                            "value": "Новая почта"
+                        }
+                    ],
                     "products": [
                         {
                             "image": "bag_leather_gray_1",
@@ -541,18 +546,23 @@
                 },
                 {
                     "date": "13.06.2022",
-                    "status": {
-                        "title": "Статус заказа",
-                        "value": "Проведён"
-                    },
-                    "address": {
-                        "title": "Адрес доставки",
-                        "value": "Украина, Одесса"
-                    },
-                    "delivery": {
-                        "title": "Способ доставки",
-                        "value": "Новая почта(курьер)"
-                    },
+                    "dopInfo": [
+                        {
+                            "name": "status",
+                            "title": "Статус заказа",
+                            "value": "Проведён"
+                        },
+                        {
+                            "name": "address",
+                            "title": "Адрес доставки",
+                            "value": "Украина, Одесса"
+                        },
+                        {
+                            "name": "delivery",
+                            "title": "Способ доставки",
+                            "value": "Новая почта(курьер)"
+                        }
+                    ],
                     "products": [
                         {
                             "image": "t-shirt_life_is",
@@ -596,18 +606,23 @@
                 },
                 {
                     "date": "25.02.2022",
-                    "status": {
-                        "title": "Статус заказа",
-                        "value": "Проведён"
-                    },
-                    "address": {
-                        "title": "Адрес доставки",
-                        "value": "Украина, Одесса"
-                    },
-                    "delivery": {
-                        "title": "Способ доставки",
-                        "value": "Новая почта"
-                    },
+                    "dopInfo": [
+                        {
+                            "name": "status",
+                            "title": "Статус заказа",
+                            "value": "Проведён"
+                        },
+                        {
+                            "name": "address",
+                            "title": "Адрес доставки",
+                            "value": "Украина, Одесса"
+                        },
+                        {
+                            "name": "delivery",
+                            "title": "Способ доставки",
+                            "value": "Новая почта"
+                        }
+                    ],
                     "products": [
                         {
                             "image": "cap_black_1",
