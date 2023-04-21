@@ -505,108 +505,130 @@
             "orders": [
                 {
                     "date": "01.03.2023",
-                    "productId": 7,
-                    "image": "bag_leather_gray_1",
-                    "textInfo": {
-                        "name": {
-                            "title": "Наименование товара",
-                            "value": "Сумка банан Leather Gray"
-                        },
-                        "price": {
-                            "title": "Стоимость",
-                            "value": "360.00"
-                        },
-                        "count": {
-                            "title": "Количество",
-                            "value": 2
-                        },
-                        "sum": {
-                            "title": "Общая стоимость",
-                            "value": "720.00"
-                        },
-                        "status": {
-                            "title": "Статус заказа",
-                            "value": "Проведён"
-                        },
-                        "address": {
-                            "title": "Адрес доставки",
-                            "value": "Украина, Одесса"
-                        },
-                        "delivery": {
-                            "title": "Способ доставки",
-                            "value": "Новая почта"
+                    "products": [
+                        {
+                            "image": "bag_leather_gray_1",
+                            "name": {
+                                "title": "Наименование товара",
+                                "value": "Сумка банан Leather Gray"
+                            },
+                            "price": {
+                                "title": "Стоимость",
+                                "value": "360.00"
+                            },
+                            "count": {
+                                "title": "Количество",
+                                "value": 2
+                            },
+                            "sum": {
+                                "title": "Общая стоимость",
+                                "value": "720.00"
+                            },
+                            "status": {
+                                "title": "Статус заказа",
+                                "value": "Проведён"
+                            },
+                            "address": {
+                                "title": "Адрес доставки",
+                                "value": "Украина, Одесса"
+                            },
+                            "delivery": {
+                                "title": "Способ доставки",
+                                "value": "Новая почта"
+                            }
                         }
-                    }
+                    ]
                 },
                 {
                     "date": "13.06.2022",
-                    "productId": 0,
-                    "image": "t-shirt_life_is",
-                    "textInfo": {
-                        "name": {
-                            "title": "Наименование товара",
-                            "value": "Футболка Love is"
+                    "status": {
+                        "title": "Статус заказа",
+                        "value": "Проведён"
+                    },
+                    "address": {
+                        "title": "Адрес доставки",
+                        "value": "Украина, Одесса"
+                    },
+                    "delivery": {
+                        "title": "Способ доставки",
+                        "value": "Новая почта(курьер)"
+                    },
+                    "products": [
+                        {
+                            "image": "t-shirt_life_is",
+                            "name": {
+                                "title": "Наименование товара",
+                                "value": "Футболка Love is"
+                            },
+                            "price": {
+                                "title": "Стоимость",
+                                "value": "320.00"
+                            },
+                            "count": {
+                                "title": "Количество",
+                                "value": 1
+                            },
+                            "sum": {
+                                "title": "Общая стоимость",
+                                "value": "320.00"
+                            }
                         },
-                        "price": {
-                            "title": "Стоимость",
-                            "value": "320.00"
-                        },
-                        "count": {
-                            "title": "Количество",
-                            "value": 1
-                        },
-                        "sum": {
-                            "title": "Общая стоимость",
-                            "value": "320.00"
-                        },
-                        "status": {
-                            "title": "Статус заказа",
-                            "value": "Проведён"
-                        },
-                        "address": {
-                            "title": "Адрес доставки",
-                            "value": "Украина, Одесса"
-                        },
-                        "delivery": {
-                            "title": "Способ доставки",
-                            "value": "Новая почта(курьер)"
+                        {
+                            "image": "bag_leather_gray_1",
+                            "name": {
+                                "title": "Наименование товара",
+                                "value": "Сумка банан Leather Gray"
+                            },
+                            "price": {
+                                "title": "Стоимость",
+                                "value": "360.00"
+                            },
+                            "count": {
+                                "title": "Количество",
+                                "value": 1
+                            },
+                            "sum": {
+                                "title": "Общая стоимость",
+                                "value": "360.00"
+                            }
                         }
-                    }
+                    ]
                 },
                 {
                     "date": "25.02.2022",
-                    "productId": 8,
-                    "image": "cap_black_1",
-                    "textInfo": {
-                        "name": {
-                            "title": "Наименование товара",
-                            "value": "Бейсболка Simple"
-                        },
-                        "price": {
-                            "title": "Стоимость",
-                            "value": "380.00"
-                        },
-                        "count": {
-                            "title": "Количество",
-                            "value": 1
-                        },
-                        "sum": {
-                            "title": "Общая стоимость",
-                            "value": "380.00"
-                        },
-                        "status": {
-                            "title": "Статус заказа",
-                            "value": "Проведён"
-                        },
-                        "address": {
-                            "title": "Адрес доставки",
-                            "value": "Украина, Одесса"
-                        },
-                        "delivery": {
-                            "title": "Способ доставки",
-                            "value": "Новая почта"
+                    "status": {
+                        "title": "Статус заказа",
+                        "value": "Проведён"
+                    },
+                    "address": {
+                        "title": "Адрес доставки",
+                        "value": "Украина, Одесса"
+                    },
+                    "delivery": {
+                        "title": "Способ доставки",
+                        "value": "Новая почта"
+                    },
+                    "products": [
+                        {
+                            "image": "cap_black_1",
+                            "name": {
+                                "title": "Наименование товара",
+                                "value": "Бейсболка Simple"
+                            },
+                            "price": {
+                                "title": "Стоимость",
+                                "value": "380.00"
+                            },
+                            "count": {
+                                "title": "Количество",
+                                "value": 1
+                            },
+                            "sum": {
+                                "title": "Общая стоимость",
+                                "value": "380.00"
+                            }
                         }
-                    }
+                    ]
                 }
             ],
             "likesList": [
