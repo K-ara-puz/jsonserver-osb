@@ -696,22 +696,40 @@
             "cart": [],
             "orders": [
                 {
-                    "date": "06.02.2023",
-                    "productId": 4,
-                    "count": 4,
-                    "sum": "",
-                    "status": "Проведён",
-                    "adress": "Украина, Киев",
-                    "delivery": "Новая почта"
-                },
-                {
-                    "date": "25.02.2022",
-                    "productId": 5,
-                    "count": 1,
-                    "sum": "",
-                    "status": "Проведён",
-                    "adress": "Украина, Киев",
-                    "delivery": "Новая почта(курьер)"
+                    "date": "30.04.2023",
+                    "dopInfo": [
+                        {
+                            "name": "address",
+                            "title": "Адрес доставки",
+                            "value": "Украина, Киев"
+                        },
+                        {
+                            "name": "delivery",
+                            "title": "Способ доставки",
+                            "value": "Новая почта"
+                        }
+                    ],
+                    "products": [
+                        {
+                            "image": "sweetshot_birds_1",
+                            "name": {
+                                "title": "Наименование товара",
+                                "value": "Свитшот Birds"
+                            },
+                            "price": {
+                                "title": "Стоимость",
+                                "value": "720.00"
+                            },
+                            "count": {
+                                "title": "Количество",
+                                "value": 1
+                            },
+                            "sum": {
+                                "title": "Общая стоимость",
+                                "value": "720.00"
+                            }
+                        }
+                    ]
                 }
             ],
             "likesList": [],
@@ -729,7 +747,109 @@
             "adress": "Болгария, Варна",
             "familiar": "woman",
             "cart": [],
-            "orders": [],
+            "orders": [
+                {
+                    "date": "09.02.2023",
+                    "dopInfo": [
+                        {
+                            "name": "status",
+                            "title": "Статус заказа",
+                            "value": "Проведён"
+                        },
+                        {
+                            "name": "address",
+                            "title": "Адрес доставки",
+                            "value": "Болгария, Варна"
+                        },
+                        {
+                            "name": "delivery",
+                            "title": "Способ доставки",
+                            "value": "Новая почта (курьер)"
+                        }
+                    ],
+                    "products": [
+                        {
+                            "image": "sweetshot_airplane_1",
+                            "name": {
+                                "title": "Наименование товара",
+                                "value": "Свитшот Airplane"
+                            },
+                            "price": {
+                                "title": "Стоимость",
+                                "value": "800.00"
+                            },
+                            "count": {
+                                "title": "Количество",
+                                "value": 1
+                            },
+                            "sum": {
+                                "title": "Общая стоимость",
+                                "value": "800.00"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "date": "18.12.2022",
+                    "dopInfo": [
+                        {
+                            "name": "status",
+                            "title": "Статус заказа",
+                            "value": "Проведён"
+                        },
+                        {
+                            "name": "address",
+                            "title": "Адрес доставки",
+                            "value": "Болгария, Варна, ул.Гротевськи, 8"
+                        },
+                        {
+                            "name": "delivery",
+                            "title": "Способ доставки",
+                            "value": "Новая почта (курьер)"
+                        }
+                    ],
+                    "products": [
+                        {
+                            "image": "belt_multi_1",
+                            "name": {
+                                "title": "Наименование товара",
+                                "value": "Ремень Multi Transform"
+                            },
+                            "price": {
+                                "title": "Стоимость",
+                                "value": "220.00"
+                            },
+                            "count": {
+                                "title": "Количество",
+                                "value": 2
+                            },
+                            "sum": {
+                                "title": "Общая стоимость",
+                                "value": "440.00"
+                            }
+                        },
+                        {
+                            "image": "bag_leather_gray_1",
+                            "name": {
+                                "title": "Наименование товара",
+                                "value": "Сумка банан Leather Gray"
+                            },
+                            "price": {
+                                "title": "Стоимость",
+                                "value": "360.00"
+                            },
+                            "count": {
+                                "title": "Количество",
+                                "value": 1
+                            },
+                            "sum": {
+                                "title": "Общая стоимость",
+                                "value": "360.00"
+                            }
+                        }
+                    ]
+                }
+            ],
             "likesList": [
                 {
                     "id": 7
