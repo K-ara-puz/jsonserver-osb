@@ -865,6 +865,22 @@
             "notify": "false",
             "language": "EN",
             "feedbacks": []
+        },
+        {
+            "id": 4,
+            "name": "Алексей Задорожный",
+            "email": "lekha12@gmail.com",
+            "password": "skdfug9978",
+            "phoneNumber": "+380689367377",
+            "adress": "Украина, Винница",
+            "familiar": "man",
+            "cart": [],
+            "orders": [],
+            "likesList": [],
+            "theme": "light",
+            "notify": "false",
+            "language": "RU",
+            "feedbacks": []
         }
     ]
 }
